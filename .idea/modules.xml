@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/classical_java2.iml" filepath="$PROJECT_DIR$/classical_java2.iml" />
       <module fileurl="file://$PROJECT_DIR$/inheritance/inheritance.iml" filepath="$PROJECT_DIR$/inheritance/inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/multithreadAndException/multithreadAndException.iml" filepath="$PROJECT_DIR$/multithreadAndException/multithreadAndException.iml" />
+      <module fileurl="file://$PROJECT_DIR$/networkprogramming/networkprogramming.iml" filepath="$PROJECT_DIR$/networkprogramming/networkprogramming.iml" />
     </modules>
   </component>
 </project>
